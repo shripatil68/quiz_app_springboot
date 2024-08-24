@@ -8,8 +8,6 @@ public class QuizappApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(QuizappApplication.class, args);
-		System.out.println("");
-		System.out.println("hey shri");
 	}
 
 }
